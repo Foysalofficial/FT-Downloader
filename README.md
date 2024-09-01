@@ -40,12 +40,12 @@ maven { setUrl("https://jitpack.io") }
 
 Add this in your `build.gradle`
 ```groovy
-implementation 'com.github.Foysalofficial:FT-Downloader:5.0'
+implementation 'com.github.Foysalofficial:FT-Downloader:12.0'
 ```
 
 If you are using `build.gradle.kts`, add the following:
 ```kotlin
-implementation("com.github.Foysalofficial:FT-Downloader:5.0")
+implementation("com.github.Foysalofficial:FT-Downloader:12.0")
 ```
 
 Do not forget to add internet permission in manifest if already not present
